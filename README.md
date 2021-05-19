@@ -1,6 +1,5 @@
-# fountain-test
-## This site built on OOP - MVC
-## Developed by Duong L
+# Fountain test
+- Developed by Duong L
 
 
 ## Main technical using:
